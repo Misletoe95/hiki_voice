@@ -1,0 +1,1 @@
+Demo默认读取该目录下的pcm文件中的数据，文件名写死为send2device.pcm
