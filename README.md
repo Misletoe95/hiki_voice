@@ -1,0 +1,4 @@
+# hiki_voice
+使用python实现海康威视摄像头语音对讲和语音转发
+windows系统和linux系统均可使用
+lib文件夹下为所依赖的库
